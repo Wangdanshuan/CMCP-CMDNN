@@ -11,7 +11,7 @@
 ## 使用说明
 1. 克隆项目：
 ```
-git clone https://github.com/wangxiaoyan123/CMCP-CMDNN.git
+git clone https://github.com/Wangdanshuan/CMCP-CMDNN.git
 ```
 2. 进入项目目录，安装依赖库：
 ```
